@@ -1,7 +1,4 @@
 # Front-end-project
-Here’s a description you could use for the GitHub repository:
-
----
 
 # Joke Generator 🎉
 
@@ -24,9 +21,3 @@ Welcome to the **Joke Generator**! This is a front-end React project designed to
 3. Start the app with `npm start`
 4. Click the "Generate Joke" button to see a new joke!
 
-## Contributions
-Feel free to contribute! Whether you want to add new features, improve the UI, or suggest new joke sources, all ideas are welcome.
-
----
-
-This description highlights the main features and provides basic setup instructions. Let me know if you want to add anything specific!

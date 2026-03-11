@@ -1,6 +1,6 @@
 # Front-end-project
 
-# Joke Generator 🎉
+# Joke Generator 
 
 Welcome to the **Joke Generator**! This is a front-end React project designed to bring some humor to your day by generating random jokes. Built with React, this application fetches jokes from an external API and displays them in a fun, user-friendly interface. 
 
